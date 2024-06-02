@@ -1,0 +1,15 @@
+/Backups/
+/Crontab/
+/OneShot/
+/Playground/
+/Sed/
+/Tools/
+/Obsolete/
+/Installed/Distributed/
+/Installed/zshLabUpdate.sh
+/Installed/wget2zim.sh
+/Installed/regenZim.sh
+/Installed/syncNAS.sh
+/Installed/DNS/addHostDNS.sh
+/Installed/DNS/addServerDNS.sh
+/Installed/DNS/rmDNS.sh
